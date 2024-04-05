@@ -6,4 +6,4 @@
 	url = https://github.com/rlidwka/markdown-it.rs.git
 [submodule "vendor/cmark-gfm"]
 	path = vendor/cmark-gfm
-	url = https://github.com/rsdy/cmark-gfm
+	url = https://github.com/BloopAI/cmark-gfm
